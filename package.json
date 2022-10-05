@@ -1,0 +1,24 @@
+{
+  "name": "basic-analytics-dashboard-redis-bitmaps-nodejs",
+  "version": "1.0.0",
+  "description": "Showcases how to implement analytics system using Redis Bitmaps (and other data types) in NodeJS",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redis-developer/basic-analytics-dashboard-redis-bitmaps-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redis-developer/basic-analytics-dashboard-redis-bitmaps-nodejs/issues"
+  },
+  "homepage": "https://github.com/redis-developer/basic-analytics-dashboard-redis-bitmaps-nodejs#readme"
+}
